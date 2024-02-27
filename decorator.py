@@ -38,3 +38,5 @@ clear_log_file()
 
 response = requests.get('https://docs.google.com/spreadsheets/d/1fJSZn1Ww0tSoeifcvegJW8_bshJh-FZdWJvN3HZtyhU/edit#gid=0')
 
+print("test ststests)")
+
